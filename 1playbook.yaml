@@ -1,6 +1,5 @@
-- name: Hello Ram
-  hosts: web
-  tasks:
-    - name: print Hello Ram
-      ansible.builtin.debug:
-        msg: "Hello Ram!"
+- name: ping the server
+  host: web
+  task: 
+   - name: ping the server
+     ansible.builtin.ping:
