@@ -1,0 +1,31 @@
+- name: "Vasa Rani Akshaya"
+  dob: "2003-01-25"
+  mobilenumber: 9381839959
+  addresses:
+   - type: "permanent"
+     Doorno: "104"
+     street: "TTD kalyana mandapam road"
+     City: "Plakollu"
+     State: "AP"
+
+   - type: "Temporary"
+     Doorno: "105"
+     street: "TTD kalyana road"
+     City: "Palakollu"
+     State: "AP"
+
+- name: "Vasa Akshaya"
+  dob: "2003-01-24"
+  mobilenumber: 9381839959
+  addresses:
+   - type: "permanent"
+     Doorno: "104"
+     street: "TTD kalyana mandapam road"
+     City: "Plakollu"
+     State: "AP"
+
+   - type: "Temporary"
+     Doorno: "105"
+     street: "TTD kalyana road"
+     City: "Palakollu"
+     State: "AP"
