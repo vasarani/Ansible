@@ -1,6 +1,6 @@
 - name: vriables preference
   hosts: local
-  connections: local
+  connection: local
   vars:
    NAME: "Ansible from play"
 
