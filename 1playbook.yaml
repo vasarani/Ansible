@@ -1,0 +1,6 @@
+- name: Hello Ram
+  hosts: web
+  tasks:
+    - name: print Hello Ram
+      ansible.builtin.debug:
+        msg: "Hello Ram!"
