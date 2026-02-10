@@ -7,7 +7,7 @@
    IS_LIVE: true #bool
    DETAILS:
      MONTHS: 4
-     TRAINER: "SivaRAm Reddy"
+     TRAINER: "SivaRam Reddy"
    TOPICS: # list -/[]
      - Linux
      - Shell
