@@ -1,0 +1,39 @@
+<student>
+      <Firstname></Firstname>
+      <DOB>2003-01-25</DOB>
+      <Email>vasaraniakshaya@gmail.com</Email>
+      <Address>
+        <Present>
+          <Flat>105</Flat>
+          <Street>TTD kalyana mandapam</Street>
+          <City>Palakollu</City>
+          <State>Andhra Pradesh</State>
+        </Present>
+        <Current>
+          <Flat>104</Flat>
+          <Street>TTD kalyana mandapam</Street>
+          <City>Palakollu</City>
+          <State>Andhra Pradesh</State>
+        </Current>
+       </Address>
+</students>
+
+<student>
+      <Firstname></Firstname>
+      <DOB>2003-01-24</DOB>
+      <Email>vasaraniakshaya@gmail.com</Email>
+      <Address>
+        <Present>
+          <Flat>15</Flat>
+          <Street>TTD kalyana mandapam</Street>
+          <City>Palakollu</City>
+          <State>Andhra Pradesh</State>
+        </Present>
+        <Current>
+        <Flat>14</Flat>
+        <Street>TTD kalyana mandapam</Street>
+          <City>Palakollu</City>
+          <State>Andhra Pradesh</State>
+        </Current>
+       </Address>
+</students>
